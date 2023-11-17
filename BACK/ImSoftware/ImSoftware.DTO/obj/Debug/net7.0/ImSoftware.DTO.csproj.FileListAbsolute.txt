@@ -1,0 +1,11 @@
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DTO\bin\Debug\net7.0\ImSoftware.DTO.deps.json
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DTO\bin\Debug\net7.0\ImSoftware.DTO.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DTO\bin\Debug\net7.0\ImSoftware.DTO.pdb
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DTO\obj\Debug\net7.0\ImSoftware.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DTO\obj\Debug\net7.0\ImSoftware.DTO.AssemblyInfoInputs.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DTO\obj\Debug\net7.0\ImSoftware.DTO.AssemblyInfo.cs
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DTO\obj\Debug\net7.0\ImSoftware.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DTO\obj\Debug\net7.0\ImSoftware.DTO.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DTO\obj\Debug\net7.0\refint\ImSoftware.DTO.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DTO\obj\Debug\net7.0\ImSoftware.DTO.pdb
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DTO\obj\Debug\net7.0\ref\ImSoftware.DTO.dll

@@ -1,0 +1,14 @@
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\bin\Debug\net7.0\ImSoftware.Model.deps.json
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\bin\Debug\net7.0\ImSoftware.Model.runtimeconfig.json
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\bin\Debug\net7.0\ImSoftware.Model.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\bin\Debug\net7.0\ImSoftware.Model.pdb
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\obj\Debug\net7.0\ImSoftware.Model.csproj.AssemblyReference.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\obj\Debug\net7.0\ImSoftware.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\obj\Debug\net7.0\ImSoftware.Model.AssemblyInfoInputs.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\obj\Debug\net7.0\ImSoftware.Model.AssemblyInfo.cs
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\obj\Debug\net7.0\ImSoftware.Model.csproj.CoreCompileInputs.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\obj\Debug\net7.0\ImSoftware.Model.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\obj\Debug\net7.0\refint\ImSoftware.Model.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\obj\Debug\net7.0\ImSoftware.Model.pdb
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\obj\Debug\net7.0\ImSoftware.Model.genruntimeconfig.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Model\obj\Debug\net7.0\ref\ImSoftware.Model.dll

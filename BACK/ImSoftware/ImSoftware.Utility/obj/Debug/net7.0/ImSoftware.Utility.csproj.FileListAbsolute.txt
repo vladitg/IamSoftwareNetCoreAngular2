@@ -1,0 +1,17 @@
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\bin\Debug\net7.0\ImSoftware.Utility.deps.json
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\bin\Debug\net7.0\ImSoftware.Utility.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\bin\Debug\net7.0\ImSoftware.Utility.pdb
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\obj\Debug\net7.0\ImSoftware.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\obj\Debug\net7.0\ImSoftware.Utility.AssemblyInfoInputs.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\obj\Debug\net7.0\ImSoftware.Utility.AssemblyInfo.cs
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\obj\Debug\net7.0\ImSoftware.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\obj\Debug\net7.0\ImSoftware.Utility.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\obj\Debug\net7.0\refint\ImSoftware.Utility.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\obj\Debug\net7.0\ImSoftware.Utility.pdb
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\obj\Debug\net7.0\ref\ImSoftware.Utility.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\bin\Debug\net7.0\ImSoftware.DTO.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\bin\Debug\net7.0\ImSoftware.Model.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\bin\Debug\net7.0\ImSoftware.DTO.pdb
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\bin\Debug\net7.0\ImSoftware.Model.pdb
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\obj\Debug\net7.0\ImSoftware.Utility.csproj.AssemblyReference.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.Utility\obj\Debug\net7.0\ImSoftware.Utility.csproj.CopyComplete

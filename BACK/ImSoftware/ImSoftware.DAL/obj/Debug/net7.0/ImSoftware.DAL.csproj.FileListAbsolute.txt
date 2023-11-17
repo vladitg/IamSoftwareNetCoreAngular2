@@ -1,0 +1,15 @@
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\bin\Debug\net7.0\ImSoftware.DAL.deps.json
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\bin\Debug\net7.0\ImSoftware.DAL.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\bin\Debug\net7.0\ImSoftware.DAL.pdb
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\obj\Debug\net7.0\ImSoftware.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\obj\Debug\net7.0\ImSoftware.DAL.AssemblyInfoInputs.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\obj\Debug\net7.0\ImSoftware.DAL.AssemblyInfo.cs
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\obj\Debug\net7.0\ImSoftware.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\obj\Debug\net7.0\ImSoftware.DAL.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\obj\Debug\net7.0\refint\ImSoftware.DAL.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\obj\Debug\net7.0\ImSoftware.DAL.pdb
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\obj\Debug\net7.0\ref\ImSoftware.DAL.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\bin\Debug\net7.0\ImSoftware.Model.dll
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\bin\Debug\net7.0\ImSoftware.Model.pdb
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\obj\Debug\net7.0\ImSoftware.DAL.csproj.AssemblyReference.cache
+C:\Users\Tagle\Documents\ImSoftware\BACK\ImSoftware\ImSoftware.DAL\obj\Debug\net7.0\ImSoftware.DAL.csproj.CopyComplete

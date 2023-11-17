@@ -1,0 +1,13 @@
+mat-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+mat-error{
+    margin-bottom: 20px;
+}
+mat-error::before{
+    content: none
+}
+form{
+    padding-top: 20px;
+}
